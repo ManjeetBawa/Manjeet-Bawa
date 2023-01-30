@@ -1,0 +1,68 @@
+nav{
+    background-color: #c7d8f9
+}
+.logo{
+    height: 37px;
+}
+.items{
+    margin-left: 33%;
+}
+.nav-link{
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 40px;
+
+}
+h2,h4,h3{
+    font-weight: bold;
+}
+.navbar-brand{
+    padding-left: 30px;
+}
+
+.banner{
+    height:200px;
+    background-color: #c75f5f;
+    margin:0px 40px;
+}
+.left{
+    /* border: 2px solid green; */
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.right{
+    border: 1px solid red;
+    height: auto;
+
+}
+.webitems{
+    margin: 21px auto;
+}
+
+.inputitem{
+    margin-top: 20px;
+}
+
+button{
+    margin-top: 22px;
+    
+}
+.emails{
+    margin:33px;
+    
+}
+.btn-primary{
+    background-color: #f13624;
+}
+
+.footer{
+    height:54px;
+    background-color: #c7d8f9;
+    justify-content: center;
+    display: flex;
+}
+.footer h6{
+    margin: auto;
+    font-weight: bold;
+}
