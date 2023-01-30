@@ -1,5 +1,5 @@
 nav{
-    background-color: #c7d8f9
+    background-color: #c7d8f9;
 }
 .logo{
     height: 37px;
@@ -62,8 +62,33 @@ button{
     background-color: #c7d8f9;
     justify-content: center;
     display: flex;
+
+
+
+
+    /* position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;*/
 }
 .footer h6{
     margin: auto;
     font-weight: bold;
+    /* padding-top: 19px; */
+}
+
+
+
+@media (min-width:1390px) {
+
+
+    .footer {
+
+        height:54px;
+        background-color: #c7d8f9;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+    }
 }
